@@ -70,7 +70,7 @@ h2, h3 {
 	font-size: 12px;
 }
 .ea  a{
-	font-size: 12px;
+	font-size: 5px;
 }
 .um {
 	margin-top: 40px !important;
@@ -207,7 +207,8 @@ nav ul li a#cabecalho {
 }
 .ea a{
 	color: black;
-	font-size: 15px;
+	font-size: 13px;
+	margin-top: 10px;
 }
 .ea {
 	margin-top: 20px;
